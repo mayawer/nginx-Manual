@@ -8,7 +8,7 @@
 
 本项目只支持部署vless+ws+tls 或 vmess+ws+tls单协议节点，支持跳转伪装网页，可自定义伪装网站地址。
 
-path自动设置为：/自定义UUID码-vless 或 /自定义UUID码-vmess
+path路径自动设置为：/自定义UUID码-vless 或 /自定义UUID码-vmess
 
 
 ### 代理协议：vless+ws+tls 或 vmess+ws+tls
