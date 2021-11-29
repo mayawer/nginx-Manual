@@ -16,7 +16,7 @@
       "required": false
     },
         "vindex": {
-      "description": "伪装网站,填写一个真实网站",
+      "description": "伪装网站，填写一个真实网站地址",
       "value": "",
       "required": false
     }
